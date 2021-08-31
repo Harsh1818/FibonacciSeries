@@ -1,7 +1,7 @@
 public class FibonacciWhileExample {
 	public static void main(String[] args) 
 	{
-		 int maxNumber = 10, previousNumber = 0, nextNumber = 1;
+		 int maxNumber = 20, previousNumber = 0, nextNumber = 1;
 	        System.out.print("Fibonacci Series of "+maxNumber+" numbers:");
  
 	        int i=1;
